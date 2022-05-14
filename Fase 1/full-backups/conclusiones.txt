@@ -1,0 +1,8 @@
+La restauracion del dia 1 tomo 30 segundos aproximadamente.
+La restauracion del dia 2 tomo cerca de 25 segundos.
+La restauracion del dia 3 tomo cerca de un minuto.
+La restauracion del dia 4 tomo 1 minuto con 30 segundos.
+La restauracion del dia 5 tomo cerda de 2 minutos con 45 segundos.
+
+Ya que es una restauracion a partir de full backups tomo mas tiempo con las restauraciones
+de los ultimos dias pues estas contenian mas datos en las diferentes tablas de la base de datos.

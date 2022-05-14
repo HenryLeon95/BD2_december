@@ -1,0 +1,7 @@
+Estimated time to restore the database based on incremental backups.
+
+Día 1 - 86.12 seconds
+Día 2 - 00.86 seconds
+Día 3 - 31.33 seconds
+Día 4 - 48.20 seconds
+Día 5 - 37.35 seconds
